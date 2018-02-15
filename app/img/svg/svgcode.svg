@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 339 257">
+  <defs>
+
+  <style>.cls-1{fill:#2f2f35;stroke:#b3b3b3;stroke-linecap:round;stroke-linejoin:round;stroke-width:5px;}.cls-2{fill:#393944;}.cls-3{fill:#ed5d5d;}.cls-4{fill:#f7931e;}.cls-5{fill:#8cc63f;}.cls-6{fill:#3fa9f5;}.cls-7{fill:#ccc;}.cls-8{fill:#fbb03b;}
+  </style>
+
+  </defs>
+
+  <title>svgcode</title>
+
+  <g id="fond"><rect class="cls-1" x="2.5" y="2.5" width="334" height="252" rx="8.61" ry="8.61"/>
+    <path class="cls-2" d="M6.19,29H332.81a.69.69,0,0,1,.69.69V243.86a6.64,6.64,0,0,1-6.64,6.64H11A5.49,5.49,0,0,1,5.5,245V29.69A.69.69,0,0,1,6.19,29Z"/>
+    <path class="cls-2" d="M84.47,16.5h104a5,5,0,0,1,5,5v8a0,0,0,0,1,0,0H79.5a0,0,0,0,1,0,0v-8A5,5,0,0,1,84.47,16.5Z"/>
+    <circle class="cls-3" cx="16.5" cy="18.5" r="3"/>
+    <circle class="cls-4" cx="28.5" cy="18.5" r="3"/>
+    <circle class="cls-5" cx="40.5" cy="18.5" r="3"/>
+  </g>
+
+  <g id="ligne1">
+    <rect class="cls-3" x="30" y="42" width="94.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-6" x="128" y="42" width="33.5" height="6" rx="3" ry="3"/>
+  </g>
+
+  <g id="ligne2">
+    <rect class="cls-6" x="47" y="55" width="33.5" height="6" rx="3" ry="3"/>
+  </g>
+
+  <g id="ligne3">
+    <rect class="cls-3" x="164" y="68" width="39.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-7" x="64" y="68" width="94.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-7" x="209" y="68" width="62.5" height="6" rx="3" ry="3"/>
+  </g>
+
+  <g id="ligne4">
+    <rect class="cls-3" x="105" y="81" width="39.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-8" x="64" y="81" width="34.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-8" x="149" y="81" width="34.5" height="6" rx="3" ry="3"/>
+  </g>
+
+  <g id="ligne5">
+    <rect class="cls-6" x="47" y="92" width="33.5" height="6" rx="3" ry="3"/>
+  </g>
+
+  <g id="ligne6">
+    <rect class="cls-3" x="30" y="106" width="94.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-6" x="128" y="106" width="33.5" height="6" rx="3" ry="3"/>
+  </g>
+
+  <g id="ligne7">
+    <rect class="cls-3" x="30" y="141" width="94.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-6" x="128" y="141" width="33.5" height="6" rx="3" ry="3"/></g>
+
+  <g id="ligne8">
+    <rect class="cls-6" x="47" y="154" width="33.5" height="6" rx="3" ry="3"/></g><g id="ligne9">
+    <rect class="cls-3" x="131" y="167" width="39.5" height="6" rx="3" ry="3"/><rect class="cls-7" x="64" y="167" width="58.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-7" x="179" y="167" width="95.5" height="6" rx="3" ry="3"/></g><g id="ligne10"><rect class="cls-3" x="105" y="180" width="39.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-8" x="64" y="180" width="34.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-8" x="149" y="180" width="34.5" height="6" rx="3" ry="3"/></g>
+  <g id="ligne11"><rect class="cls-6" x="47" y="191" width="33.5" height="6" rx="3" ry="3"/></g>
+
+  <g id="ligne12">
+    <rect class="cls-3" x="30" y="205" width="94.5" height="6" rx="3" ry="3"/>
+    <rect class="cls-6" x="128" y="205" width="33.5" height="6" rx="3" ry="3"/>
+  </g>
+
+</svg>
